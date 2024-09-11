@@ -19,7 +19,9 @@ Fast Startup is a feature in Windows designed to reduce the time it takes for yo
 Fast Startup can prevent Windows from applying updates correctly. When you shut down your computer with Fast Startup enabled, it doesn’t fully close all processes, which can interfere with the installation of updates and system maintenance tasks.
 
 ## Why I've disabled it?
-Make troubleshooting easier, ifenabled, Fast Startup can mask underlying issues since the system isn’t really resetting. Disabling it ensures that your computer starts fresh each time, making it easier to identify and resolve problems.
+Shutdown isn't shutdown, reboot is shutdown. Huh?!?
+
+Fast Startup can mask underlying issues since the system isn’t really resetting on shutdown. Disabling it ensures that your computer starts fresh each time, making it easier to identify and resolve problems.
 
 Many businesses I've worked with utilise docking stations
 to provide a better user experience when roaming. Allowing an end user to connect a single cable to their laptop
