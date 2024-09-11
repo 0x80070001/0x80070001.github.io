@@ -5,7 +5,8 @@ date: 2021-12-03 20:00
 headerImage: false
 tag:
 - powershell
-- LAPS
+- security
+- laps
 star: true
 category: blog
 author: intuner
