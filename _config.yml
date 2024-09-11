@@ -99,6 +99,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-gist
 
 compress_html:
   ignore:
