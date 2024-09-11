@@ -15,7 +15,7 @@ description: Intune remediation
 
 Fast Startup is a feature in Windows designed to reduce the time it takes for your computer to boot. While this sounds great in theory, there are several reasons why you might want to consider disabling it.
 
-## Why You may want to disable Fast Startup on Windows?
+## Why disable Fast Startup?
 
 1. Compatibility Issues
 Fast Startup can cause compatibility problems with certain hardware and software. For example, some older devices and drivers may not function correctly when Fast Startup is enabled, leading to unexpected behavior or crashes.
