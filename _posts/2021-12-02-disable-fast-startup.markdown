@@ -4,8 +4,8 @@ layout: post
 date: 2021-12-02 20:00
 headerImage: false
 tag:
-- markdown
-- elements
+- powershell
+- registry
 star: true
 category: blog
 author: intuner
