@@ -2,14 +2,20 @@
     <ul class="list">
         {% if page.title != "Home" %}
             <li class="item">
-                <a class="link" href="{{ site.url }}/">Home</a>
+                <!--<a class="link" href="{{ site.url }}/">Home</a>-->
+                    <a class="link" data-title="{{ site.url }}/" href="{{ site.url }}/" rel="noopener" title="home" alt="anchor link for home" aria-label="anchor link for home">
+                        <i class="fa-solid fa-house"></i>
+                    </a>
             </li>
         {% endif %}
 
         {% if site.blog == true %}
             {% if page.title != "Blog" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
+                    <!--<a class="link" href="{{ site.url }}/blog">Blog</a>-->
+                    <a class="link" data-title="{{ site.url }}/blog" href="{{ site.url }}/blog" rel="noopener" title="blog" alt="anchor link for blog" aria-label="anchor link for blog">
+                        <i class="fa-solid fa-pencil"></i>
+                    </a>
                 </li>
             {% endif %}
         {% endif %}
@@ -17,7 +23,10 @@
         {% if site.projects == true %}
             {% if page.title != "Projects" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Projects</a>
+                    <!--<a class="link" href="{{ site.url }}/projects">Projects</a>-->
+                    <a class="link" data-title="{{ site.url }}/projects" href="https://github.com/0x80070001" title="projects" target="_blank" rel="noopener" alt="anchor link for projects" aria-label="anchor link for projects">
+                        <i class="fa-solid fa-flask" ></i>
+                    </a>
                 </li>
             {% endif %}
         {% endif %}
@@ -25,7 +34,10 @@
         {% if site.about == true %}
             {% if page.title != "About" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
+                    <!--<a class="link" href="{{ site.url }}/about">About</a>-->
+                    <a class="link" data-title="{{ site.url }}/about" href="{{ site.url }}/about" rel="noopener" title="about" alt="anchor link for about" aria-label="anchor link for projects">
+                        <i class="fa-solid fa-user-large"></i>
+                    </a>
                 </li>
             {% endif %}
         {% endif %}

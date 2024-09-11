@@ -8,7 +8,7 @@
     {% endif %}
 
     {% if site.twitter %}
-        <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener" alt="anchor link for social media twitter" aria-label="anchor link for social media twitter">
+        <a class="link" data-title="x.com/{{ site.twitter }}" href="https://x.com/{{ site.twitter }}" target="_blank" rel="noopener" alt="anchor link for social media x" aria-label="anchor link for social media x">
             <i class="fa-brands fa-x-twitter"></i>
         </a>
     {% endif %}
@@ -36,4 +36,11 @@
             <i class="fa-regular fa-envelope"></i>
         </a>
     {% endif %}
+
+    {% if site.analytics-umami-share %}
+        <a class="link" data-title="{{ site.analytics-umami }}" href="{{ site.analytics-umami-share }}"  target="_blank" rel="noopener" alt="anchor link for analytics" aria-label="anchor link for analytics">
+            <i class="fa-solid fa-chart-pie"></i>
+        </a>
+    {% endif %}
+    
 </div>

@@ -1,4 +1,4 @@
-<section class="author{% if site.disqus == false %} no-disqus{% endif %}">
+<section class="author">
     <div class="toleft">
         <img
             class="selfie"
@@ -18,7 +18,7 @@
                 class="twitter"
                 href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }} - {{ page.title }} by @{{ site.authors[page.author].twitter }}"
             >
-                <i class="fa-brands fa-twitter"></i>
+                <i class="fa-brands fa-square-x-twitter"></i>
                 <span class="icon-twitter">Tweet</span>
             </a>
 
@@ -31,10 +31,10 @@
                 <span class="icon-facebook-rect">Share</span>
             </a>
 
-            <!-- <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;title={{ page.title }}&amp;summary={{ page.description }}&amp;source={{ site.url }}" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;title={{ page.title }}&amp;summary={{ page.description }}&amp;source={{ site.url }}" target="_blank">
                 <i class="fa-brands fa-linkedin"></i>
-                <span class="icon-linkedin">Share</span>
-            </a> -->
+                <span class="icon-linkedin">Post</span>
+            </a> 
         </div>
     </div>
 </section>

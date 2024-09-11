@@ -17,7 +17,17 @@
         {% endif %}
 
         <h1 class="title">{{ site.title }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
+        <h2 class="description">
+        {% if site.twitter %}
+        <a data-title="x.com/{{ site.twitter }}" href="https://x.com/{{ site.twitter }}" target="_blank" rel="noopener" alt="anchor link for social media x" aria-label="anchor link for social media x">
+        {% endif %}
+        {{ site.bio }}
+        {% if site.twitter %}
+        </a>
+        {% endif %}
+        </h2>
+
+        
 
         {% include social-links.html %}
     </header>
