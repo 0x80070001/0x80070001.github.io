@@ -11,7 +11,7 @@ category: blog
 author: intuner
 description: Intune remediation
 ---
-## Why disablet the local administrator account?
+## Why disable the local administrator account?
 It's a simple and effective way to reduce your attack surface. Use in conjunction with
 LAPS to provide a break glass method of local administration if required.
 
