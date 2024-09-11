@@ -32,4 +32,7 @@ or even fail during use. End users then begin unplugging the dock and the situat
 
 Disabling Fast Startup (in most cases) has improved Windows reliability when using docking stations.
 
+## Why use a Remediation?
+The Intune ADMX policy does not disable fast start, it simply sets it to NOT CONFIGURED.
+
 {% gist 4b0a3684e75db993ebd7e6138dea6727 %}
