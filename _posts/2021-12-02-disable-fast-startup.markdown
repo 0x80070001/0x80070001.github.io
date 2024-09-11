@@ -32,9 +32,9 @@ There is a risk of data corruption if you have Fast Startup enabled and experien
 5. Troubleshooting
 Disabling Fast Startup can make troubleshooting easier. When Fast Startup is enabled, it can mask underlying issues because the system isn’t fully resetting. Disabling it ensures that your computer starts fresh each time, making it easier to identify and resolve problems.
 
-## Why I've disabled in enterprise environments
+## Why I've disabled it?
 
-Update and maintenance, specifically USB driver updates. Many businesses I've worked with utilise docking stations
+Many businesses I've worked with utilise docking stations
 to provide a better user experience when roaming. Allowing an end user to connect a single cable to their laptop
 to connect to multiple displays, ethernet, keyboard and mice is nice!... when it works.
 
