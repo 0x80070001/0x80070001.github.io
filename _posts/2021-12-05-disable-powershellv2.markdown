@@ -11,7 +11,7 @@ category: blog
 author: intuner
 description: Intune remediation
 ---
-## Why disble PowerShell V2?
+## Why disable PowerShell V2?
 This version of powershell is susceptible to remote code execution vulnerabilities and it
 does not support Constrained Language Mode!
 
