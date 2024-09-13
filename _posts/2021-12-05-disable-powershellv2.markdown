@@ -6,6 +6,7 @@ headerImage: false
 tag:
 - powershell
 - security
+- WindowsOptionalFeature
 star: true
 category: blog
 author: intuner
