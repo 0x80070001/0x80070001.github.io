@@ -13,6 +13,6 @@ description: Intune remediation
 ---
 
 ## Why?
-Just an idea while we wait for the Microsoft App Store (new) and application management to be fully baked within Intune.
+Just an idea while we wait for the Microsoft App Store (new) and Application Management to be fully baked within Intune.
 
 {% gist 8c82cc60cdcc1429247a7c47eb387fb6 %}
