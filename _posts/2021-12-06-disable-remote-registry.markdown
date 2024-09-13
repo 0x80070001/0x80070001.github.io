@@ -1,5 +1,5 @@
 ---
-title: "Disable Remote Registry in Windows via Intune Remediation"
+title: "Disable Remote Registry via Intune Remediation"
 layout: post
 headerImage: false
 tag:

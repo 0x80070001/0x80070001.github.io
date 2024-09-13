@@ -1,5 +1,5 @@
 ---
-title: "Enable LAPS account in Windows via Intune Remediation"
+title: "Enable LAPS account via Intune Remediation"
 layout: post
 headerImage: false
 tag:

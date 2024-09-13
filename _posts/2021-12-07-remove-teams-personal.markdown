@@ -1,5 +1,5 @@
 ---
-title: "Remove Teams Personal in Windows via Intune Remediation"
+title: "Remove Teams Personal via Intune Remediation"
 layout: post
 headerImage: false
 tag:

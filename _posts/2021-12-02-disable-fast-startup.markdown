@@ -1,5 +1,5 @@
 ---
-title: "Disable Fast Startup in Windows via Intune Remediation"
+title: "Disable Fast Startup via Intune Remediation"
 layout: post
 headerImage: false
 tag:

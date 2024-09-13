@@ -1,5 +1,5 @@
 ---
-title: "Remove built-in Mail App in Windows via Intune Remediation"
+title: "Remove built-in Mail App via Intune Remediation"
 layout: post
 headerImage: false
 tag:

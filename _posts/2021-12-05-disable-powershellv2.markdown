@@ -1,5 +1,5 @@
 ---
-title: "Disable PowerShell V2 in Windows via Intune Remediation"
+title: "Disable PowerShell V2 via Intune Remediation"
 layout: post
 headerImage: false
 tag:

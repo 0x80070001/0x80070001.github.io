@@ -1,5 +1,5 @@
 ---
-title: "Disable NetFx3 (.NET Framework 3.5) in Windows via Intune Remediation"
+title: "Disable NetFx3 (.NET Framework 3.5) via Intune Remediation"
 layout: post
 headerImage: false
 tag:

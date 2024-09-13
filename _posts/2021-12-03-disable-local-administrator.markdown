@@ -1,5 +1,5 @@
 ---
-title: "Disable Local Administrator in Windows via Intune Remediation"
+title: "Disable Local Administrator via Intune Remediation"
 layout: post
 headerImage: false
 tag:
