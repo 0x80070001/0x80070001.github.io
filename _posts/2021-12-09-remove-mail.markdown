@@ -13,6 +13,6 @@ author: intuner
 description: Intune remediation
 ---
 ## Why remove the built-in Mail App?
-Avoid user confusion.
+Built-in mail can control the mailto protocol. Avoid user confusion.
 
 {% gist f6f0292bd9421cdde800b4b4277b8004 %}
