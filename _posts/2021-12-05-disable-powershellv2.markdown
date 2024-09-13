@@ -1,7 +1,6 @@
 ---
 title: "Disable PowerShell V2 in Windows"
 layout: post
-date: 2021-12-05 20:00
 headerImage: false
 tag:
 - powershell

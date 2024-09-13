@@ -1,7 +1,6 @@
 ---
 title: "Disable Remote Registry in Windows"
 layout: post
-date: 2021-12-06 20:00
 headerImage: false
 tag:
 - powershell

@@ -1,7 +1,6 @@
 ---
 title: "Enable LAPS account in Windows"
 layout: post
-date: 2021-12-04 20:00
 headerImage: false
 tag:
 - powershell

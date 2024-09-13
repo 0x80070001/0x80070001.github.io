@@ -1,7 +1,6 @@
 ---
 title: "Disable NetFx3 (.NET Framework 3.5) in Windows"
 layout: post
-date: 2021-12-08 20:00
 headerImage: false
 tag:
 - powershell

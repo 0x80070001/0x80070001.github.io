@@ -1,7 +1,6 @@
 ---
 title: "Enable Office Logging in Windows"
 layout: post
-date: 2021-12-10 20:00
 headerImage: false
 tag:
 - powershell

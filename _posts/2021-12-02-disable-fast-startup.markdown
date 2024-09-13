@@ -1,7 +1,6 @@
 ---
 title: "Disable Fast Startup in Windows"
 layout: post
-date: 2021-12-02 20:00
 headerImage: false
 tag:
 - powershell

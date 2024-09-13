@@ -1,7 +1,6 @@
 ---
 title: "Disable Local Administrator in Windows"
 layout: post
-date: 2021-12-03 20:00
 headerImage: false
 tag:
 - powershell
