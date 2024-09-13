@@ -1,7 +1,6 @@
 ---
 title: "Remove built-in Mail App in Windows"
 layout: post
-date: 2021-12-07 20:00
 headerImage: false
 tag:
 - powershell
