@@ -1,8 +1,9 @@
 ---
-title: "Disable Remote Registry in Windows"
+title: "Disable Remote Registry in Windows via Intune Remediation"
 layout: post
 headerImage: false
 tag:
+- remediation
 - powershell
 - registry
 - security

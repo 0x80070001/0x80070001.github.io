@@ -1,8 +1,9 @@
 ---
-title: "Winget Update Git"
+title: "Winget Update Git via Intune Remediation"
 layout: post
 headerImage: false
 tag:
+- remediation
 - powershell
 - winget
 star: true

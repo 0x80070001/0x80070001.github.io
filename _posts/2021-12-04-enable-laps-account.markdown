@@ -1,8 +1,9 @@
 ---
-title: "Enable LAPS account in Windows"
+title: "Enable LAPS account in Windows via Intune Remediation"
 layout: post
 headerImage: false
 tag:
+- remediation
 - powershell
 - security
 - laps

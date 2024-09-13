@@ -1,8 +1,9 @@
 ---
-title: "Remove Teams Personal in Windows"
+title: "Remove Teams Personal in Windows via Intune Remediation"
 layout: post
 headerImage: false
 tag:
+- remediation
 - powershell
 - appx
 - teams

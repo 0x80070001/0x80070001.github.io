@@ -1,8 +1,9 @@
 ---
-title: "Winget Update 7zip"
+title: "Winget Update 7zip via Intune Remediation"
 layout: post
 headerImage: false
 tag:
+- remediation
 - powershell
 - winget
 star: true

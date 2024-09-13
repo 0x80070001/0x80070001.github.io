@@ -1,8 +1,9 @@
 ---
-title: "Enable Office Logging in Windows"
+title: "Enable Office Logging in Windows via Intune Remediation"
 layout: post
 headerImage: false
 tag:
+- remediation
 - powershell
 - registry
 - office

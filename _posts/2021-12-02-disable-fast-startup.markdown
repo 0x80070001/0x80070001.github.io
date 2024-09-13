@@ -1,8 +1,9 @@
 ---
-title: "Disable Fast Startup in Windows"
+title: "Disable Fast Startup in Windows via Intune Remediation"
 layout: post
 headerImage: false
 tag:
+- remediation
 - powershell
 - registry
 star: true

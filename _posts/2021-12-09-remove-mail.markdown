@@ -1,8 +1,9 @@
 ---
-title: "Remove built-in Mail App in Windows"
+title: "Remove built-in Mail App in Windows via Intune Remediation"
 layout: post
 headerImage: false
 tag:
+- remediation
 - powershell
 - appx
 - teams

@@ -1,8 +1,9 @@
 ---
-title: "Disable Local Administrator in Windows"
+title: "Disable Local Administrator in Windows via Intune Remediation"
 layout: post
 headerImage: false
 tag:
+- remediation
 - powershell
 - security
 - laps
